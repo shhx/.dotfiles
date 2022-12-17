@@ -1,3 +1,5 @@
+Based on: https://www.atlassian.com/git/tutorials/dotfiles
+
 To do a fresh install execute:
 ``` sh
 git clone --bare https://github.com/shhx/.dotfiles.git $HOME/.cfg
