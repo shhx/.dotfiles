@@ -1,4 +1,4 @@
-vim.opt.guicursor = ""
+-- vim.opt.guicursor = ""
 
 -- Enable mouse mode
 vim.o.mouse = 'a'
