@@ -104,4 +104,4 @@ source $ZSH/oh-my-zsh.sh
 # add support for ctrl + delete and ctrl + supr
 bindkey '^H' backward-kill-word
 bindkey '5~' kill-word
-alias config='/usr/bin/git --git-dir=/home/shhx/.cfg/ --work-tree=/home/shhx'
+alias config='/usr/bin/git --git-dir=${HOME}/.cfg/ --work-tree=$HOME'
