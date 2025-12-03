@@ -17,3 +17,5 @@ fi;
 config checkout
 config config status.showUntrackedFiles no
 ```
+
+https://fornever.me/en/posts/2023-09-10.conditional-gitconfig.html
